@@ -5,7 +5,7 @@ Objects:    Webcam:
                 start()
                 stop()
                 capture()
-            Filesharer:
+            File sharer:
                 filepath
                 api
                 share()
